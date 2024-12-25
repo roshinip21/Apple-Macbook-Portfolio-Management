@@ -1,5 +1,6 @@
 # Apple-Macbook-Portfolio-Management
 
+<img alt="" src="Apple.jpg" />
 
 The MacBook Portfolio Charter exemplifies Apple Inc.'s strategic prowess in combining cutting-edge innovation, environmental sustainability, and customer-centric solutions. This portfolio underscores Apple’s unwavering commitment to delivering exceptional products that cater to professionals, students, and enterprises, while also meeting global sustainability goals. Through initiatives like the next-generation M-series chip development, AI-powered features, and carbon-neutral manufacturing processes, Apple demonstrates its dedication to staying ahead in technology and environmental stewardship. These efforts, coupled with targeted market expansion strategies, reinforce the MacBook’s position as a trusted leader in the premium laptop market. 
 
